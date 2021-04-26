@@ -3,7 +3,7 @@
 /*
 Plugin Name: Megaphone WPBakery Content Blocks
 Plugin URI: https://unitedworkers.org.au/
-Description: An extension for Visual Composer that displays Megaphone.com.au petition embed options
+Description: An extension for Visual Composer that displays Megaphone.org.au petition embed options
 Author: Al Bowd
 Version: 1.0.0
 Author URI: https://unitedworkers.org.au/
