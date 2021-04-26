@@ -1,5 +1,5 @@
 # vc-megaphone-petitions
-WPbakery builder plugin for Megaphone.org.au petition integration
+WPbakery builder plugin for Megaphone.org.au petition integration, built as a trial tool for the United Workers Union.
 
 Includes blocks for 
 - Signature count
