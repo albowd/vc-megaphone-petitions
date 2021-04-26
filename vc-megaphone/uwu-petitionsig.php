@@ -25,10 +25,6 @@ function uwu_vc_before_init_actions() {
 
 // Require new custom Element
 
-include( plugin_dir_path( __FILE__ ) . 'vc-petitionsig-element.php');
-
-include( plugin_dir_path( __FILE__ ) . 'vc-petitionform-element.php');
-
 include( plugin_dir_path( __FILE__ ) . 'vc-megaphonepetitionsig-element.php');
 
 include( plugin_dir_path( __FILE__ ) . 'vc-megaphonepetitioncount-element.php');
